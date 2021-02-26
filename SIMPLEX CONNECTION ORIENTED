@@ -1,5 +1,0 @@
-Simplex connection oriented is an unidirectional communication with the connection establishment and connection termination.
-In connection-oriented service, 
-Handshake method is used to establish the connection between sender and receiver.
-
-Connection oriented uses the TCP protocol to communicate between client and server.
