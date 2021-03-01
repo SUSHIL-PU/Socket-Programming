@@ -1,0 +1,4 @@
+## This is the TCP connection between client and server to transfer a .txt file over socket.
+
+# To execute the program first need to execute the SERVER.py and then execute CLIENT.py file. And
+in the SERVER side have to give the path/file name to be sent to the client.
