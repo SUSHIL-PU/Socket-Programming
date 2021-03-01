@@ -2,3 +2,6 @@
 
 # To execute the program first need to execute the SERVER.py and then execute CLIENT.py file. And
 in the SERVER side have to give the path/file name to be sent to the client.
+
+
+## Here 'Text.txt' is the input file that is send by the Server and 'Received.txt' is the file received by the client.
